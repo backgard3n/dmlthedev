@@ -12,6 +12,16 @@ Hi there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DmlTheDev.DmlTheDev)
 
+
+## <img width="35%" src="assets/stats-heading.png"/>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<p align="center">
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p>
+
 <!--
 **dmlthedev/dmlthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
