@@ -10,18 +10,18 @@ Hi there 👋
 
 ![DmlTheDev github stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+
+*Software Developer, Computer Engineer*
+
+[<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
+[<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
+[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
+[<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
+[<img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+[<img alt="MySQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
+[<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DmlTheDev.DmlTheDev)
-
-
-## <img width="35%" src="assets/stats-heading.png"/>
-
-<p align="center">
-  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
-  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
-</p>
-
-
 <!--
 **dmlthedev/dmlthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
