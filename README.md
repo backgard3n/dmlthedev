@@ -1,23 +1,11 @@
-<p align="center">
+<p>
   <h1 align="center">Dml</h1>
 </p>
 
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LinuxUser78) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/dmlreverse) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/dmldev) 
 
 
-[![javascript][javascript-shield]][javascript-url]
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![debian][debian-shield]][debian-url]
-[![visual-studio][vs-shield]][vs-url]
-[![c][c-shield]][c-url]
-[![css][css-shield]][css-url]
-[![windows][windows-shield]][windows-url]
-[![android][android-shield]][android-url]
-[![latex][latex-shield]][latex-url]
-[![sublime][sublime-shield]][sublime-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url]
+
 
 
 ### I'm Jack, I like coding, making apps and games.
@@ -27,6 +15,14 @@
 - 💬 Ask me about anything
 - 📫 How to reach me Discord (dml#4665)
 - ⚡ Fun fact Joe Mama
+
+[<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
+[<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
+[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
+[<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
+[<img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
+[<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
+
 
 [![Dml's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true)](https://github.com/mikyll/DmlTheDev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmlTheDev&layout=compact&langs_count=8)](https://github.com/DmlTheDev/DmlTheDev)  
@@ -68,15 +64,22 @@
 [sublime-url]: https://www.sublimetext.com/
 
 
+[![javascript][javascript-shield]][javascript-url]
+[![linux][linux-shield]][linux-url]
+[![java][java-shield]][java-url]
+[![html][html-shield]][html-url]
+[![debian][debian-shield]][debian-url]
+[![visual-studio][vs-shield]][vs-url]
+[![c][c-shield]][c-url]
+[![css][css-shield]][css-url]
+[![windows][windows-shield]][windows-url]
+[![android][android-shield]][android-url]
+[![latex][latex-shield]][latex-url]
+[![sublime][sublime-shield]][sublime-url]
+[![bash][bash-shield]][bash-url]
+[![unity][unity-shield]][unity-url]
+
 <!-- more badges: https://badgen.net/ -->
-
-
-[<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
-[<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
-[<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
-[<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
-[<img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
-[<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DmlTheDev.DmlTheDev)
