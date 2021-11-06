@@ -23,7 +23,7 @@
 
 Wanna see some of my future projects? Join today!
 
-![Discord](https://img.shields.io/badge/-Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://discord.gg/8RCWy4ESuD/">![Discord](https://img.shields.io/badge/discord_server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 
 ### Main Languages 
