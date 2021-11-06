@@ -21,6 +21,11 @@ Hi there 👋
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DmlTheDev.DmlTheDev)
+
+<p align="center">
+<img alt="Profile View" src="https://gpvc.arturio.dev/DmlTheDev" />
+</p>
+
 <!--
 **dmlthedev/dmlthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
