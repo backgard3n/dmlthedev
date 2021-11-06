@@ -6,8 +6,7 @@
 
 ## Contact
 <a href="https://www.instagram.com/dmlthedev/">![Instagram](https://img.shields.io/badge/dmlthedev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LinuxUser78">![Twitter](https://img.shields.io/badge/LinuxUser78-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
-</a> ![Discord](https://img.shields.io/badge/dml%234665-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> ![Discord](https://img.shields.io/badge/-Discord^Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
+</a> ![Discord](https://img.shields.io/badge/dml%234665-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> 
 
 
 
@@ -24,7 +23,8 @@
 
 Wanna see some of my future projects? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://discord.gg/8RCWy4ESuD) 
+![Discord](https://img.shields.io/badge/-Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 
 ### Main Languages 
 [<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
