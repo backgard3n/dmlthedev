@@ -3,6 +3,7 @@
 </p>
 
 
+
 [![javascript][javascript-shield]][javascript-url]
 [![linux][linux-shield]][linux-url]
 [![java][java-shield]][java-url]
@@ -31,11 +32,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmlTheDev&layout=compact&langs_count=8)](https://github.com/DmlTheDev/DmlTheDev)
 
 
-
-![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
-![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
-![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
-![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+![alt-text](https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/08/s_2A9C470D38F43091CCD122E63014ED4503CAA7508FAF0C6806AE473C2B94B83E_1627522653545_loadinfo.gif?resize=200%2C200&ssl=1)
+![alt-text](https://media0.giphy.com/media/16dIgjWQjikY8/200.gif)
+![alt-text](https://media1.giphy.com/media/26FPwvR2qSUGjEvbG/200w.gif)
+![alt-text](https://media4.giphy.com/media/3oz8xysXyF9Il08Uak/200.gif)
 
   
   
