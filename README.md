@@ -20,13 +20,13 @@
 [![unity][unity-shield]][unity-url]
 
 
-### I'm Jack, I like coding, making apps and videogames.
+### I'm Jack, I like coding, making apps and games.
 - 🔭 I’m currently working on my new website
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with anything you want 
 - 💬 Ask me about anything
 - 📫 How to reach me Discord (dml#4665)
-- ⚡ Fun fact Joe MamaThesis/tree/main/DOTS%20Prototype)
+- ⚡ Fun fact Joe Mama
 
 [![Dml's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true)](https://github.com/mikyll/DmlTheDev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmlTheDev&layout=compact&langs_count=8)](https://github.com/DmlTheDev/DmlTheDev)
@@ -75,9 +75,6 @@
 [sublime-shield]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
 [sublime-url]: https://www.sublimetext.com/
 
-[coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-[coffee-url]: https://www.buymeacoffee.com/mikyll
-<!-- https://paypal.me/mikyll98 -->
 
 <!-- more badges: https://badgen.net/ -->
 
