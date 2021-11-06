@@ -3,7 +3,6 @@
 </p>
 
 
-[![coffee][coffee-shield]][coffee-url]
 [![javascript][javascript-shield]][javascript-url]
 [![linux][linux-shield]][linux-url]
 [![java][java-shield]][java-url]
@@ -33,10 +32,11 @@
 
 
 
-![Meooow](https://user-images.githubusercontent.com/56556806/127066377-355926fa-644e-4d29-bcc0-7dfd8e0d9686.gif)
-![Helluva Boss: Moxxie](https://user-images.githubusercontent.com/56556806/127073105-b5c7f4f3-b6ba-4566-873c-dd56bc3f6e98.gif)
-![Ganyu](https://user-images.githubusercontent.com/56556806/127134266-78b8cd2d-856b-4cb8-b873-dbb0885ea61a.gif)
-![LoL: Viktor](https://user-images.githubusercontent.com/56556806/127073328-3ba60fb8-c277-4bd5-8b5f-f79ef2de5c81.gif)
+![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+![alt-text](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+
   
   
 
