@@ -11,14 +11,13 @@ Hi there 👋
 ![DmlTheDev github stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
-*Software Developer, Computer Engineer*
+*Wanna be Software Developer, Computer Engineer*
 
 [<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
 [<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
 [<img alt="Python" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />](https://www.google.com/search?&q=Python)
 [<img alt="Javascript" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />](https://www.google.com/search?&q=Javascript)
-[<img alt="MySQL" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />](https://www.google.com/search?&q=MySQL)
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DmlTheDev.DmlTheDev)
