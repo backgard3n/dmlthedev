@@ -1,8 +1,12 @@
+
+
 <p>
-  <h1 align="center">Dml</h1>
+  <h1> Dml</h1>
 </p>
 
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/LinuxUser78) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/dmlreverse) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/dmldev) 
+## Contact
+<a href="https://www.instagram.com/dmlthedev/">![Instagram](https://img.shields.io/badge/dmlthedev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LinuxUser78">![Twitter](https://img.shields.io/badge/LinuxUser78-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
+</a> ![Discord](https://img.shields.io/badge/dml%234665-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> ![Discord](https://img.shields.io/badge/-Discord^Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
@@ -10,12 +14,19 @@
 
 ### I'm Jack, I like coding, making apps and games.
 - 🔭 I’m currently working on my new website
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning more JavaScript
 - 🤔 I’m looking for help with anything you want 
 - 💬 Ask me about anything
 - 📫 How to reach me Discord (dml#4665)
 - ⚡ Fun fact Joe Mama
 
+## 🌏 My Community
+
+Wanna see some of my future projects? Join today!
+
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://discord.gg/8RCWy4ESuD) 
+
+### Main Languages 
 [<img alt="C" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />](https://www.google.com/search?&q=C)
 [<img alt="C++" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />](https://www.google.com/search?&q=C++)
 [<img alt="Java" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />](https://www.google.com/search?&q=Java)
@@ -31,53 +42,11 @@
 </details>
 
 <!-- OS -->
-[linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[linux-url]: https://www.linux.org/
-[debian-shield]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
-[debian-url]: https://www.debian.org/
-[android-shield]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
-[android-url]: https://www.android.com/
-[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[windows-url]: https://www.youtube.com/watch?v=zjedLeVGcfE&t=11s
-<!-- programming languages -->
-[java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-[java-url]: https://www.java.com
-[c-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-[c-url]: http://www.open-std.org/jtc1/sc22/wg14/
-[bash-shield]: https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
-[bash-url]: https://www.gnu.org/software/bash/
-[javascript-shield]: https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=black
-[javascript-url]: https://www.javascript.com/
-<!-- markdown languages -->
-[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[html-url]: https://www.html.it/
-[latex-shield]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
-[latex-url]: https://www.latex-project.org/
-[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[css-url]: https://www.w3schools.com/css/
-<!-- Engine & IDE -->
-[unity-shield]: https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
-[unity-url]: https://unity.com/
-[vs-shield]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-[vs-url]: https://visualstudio.microsoft.com/
-[sublime-shield]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
-[sublime-url]: https://www.sublimetext.com/
 
+### Languages and Tools  
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-%230072C6.svg?style=for-the-badge&logo=Portainer&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vult](https://img.shields.io/badge/vultr-%23039BE5.svg?style=for-the-badge&logo=vultr) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  
 
-[![javascript][javascript-shield]][javascript-url]
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![debian][debian-shield]][debian-url]
-[![visual-studio][vs-shield]][vs-url]
-[![c][c-shield]][c-url]
-[![css][css-shield]][css-url]
-[![windows][windows-shield]][windows-url]
-[![android][android-shield]][android-url]
-[![latex][latex-shield]][latex-url]
-[![sublime][sublime-shield]][sublime-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url]
 
 <!-- more badges: https://badgen.net/ -->
 
