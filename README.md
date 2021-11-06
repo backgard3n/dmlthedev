@@ -10,8 +10,7 @@ Hi there 👋
 
 ![DmlTheDev github stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-
-https://github.com/isupersky
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DmlTheDev.DmlTheDev)
 
 <!--
 **dmlthedev/dmlthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
