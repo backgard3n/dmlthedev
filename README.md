@@ -36,6 +36,7 @@ Wanna see some of my future projects? Join today!
 
 
 [![Dml's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true)](https://github.com/mikyll/DmlTheDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmlTheDev&layout=compact&langs_count=8)](https://github.com/DmlTheDev/DmlTheDev)
   
   
 
