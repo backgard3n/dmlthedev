@@ -35,7 +35,7 @@ Wanna see some of my future projects? Join today!
 [<img alt="Git" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://www.google.com/search?&q=Git)
 
 
-
+[![Dml's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DmlTheDev&show_icons=true)](https://github.com/mikyll/DmlTheDev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmlTheDev&layout=compact&langs_count=8)](https://github.com/DmlTheDev/DmlTheDev)  
   
 
