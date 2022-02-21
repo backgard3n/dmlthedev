@@ -14,7 +14,7 @@
 ### I'm Jack, I like coding, making apps and games.
 - 🔭 I’m currently working on my new website
 - 🌱 I’m currently learning more JavaScript
-- 🤔 I’m looking for help with nothing at the moment
+- 🤔 I’m looking for help with discord bot development any tips and trick would help!
 - 💬 Ask me about anything
 - 📫 How to reach me Discord (dml#4665)
 - ⚡ Fun fact Joe Mama
