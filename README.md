@@ -12,7 +12,7 @@
 
 
 ### I'm Jack, I like coding, making apps and games.
-- 🔭 I’m currently working on my new website
+- 🔭 I’m currently working on my new website and new discord bot.
 - 🌱 I’m currently learning more JavaScript
 - 🤔 I’m looking for help with discord bot development any tips and trick would help!
 - 💬 Ask me about anything
