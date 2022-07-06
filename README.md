@@ -5,7 +5,7 @@
 </p>
 
 ## Contact
-<a href="https://www.instagram.com/dmlthedev/">![Instagram](https://img.shields.io/badge/dmlthedev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LinuxUser78">![Twitter](https://img.shields.io/badge/LinuxUser78-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
+<a href="https://www.instagram.com/dmlworld/">![Instagram](https://img.shields.io/badge/dmlworld-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LinuxUser78">![Twitter](https://img.shields.io/badge/LinuxUser78-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
 </a> ![Discord](https://img.shields.io/badge/dml%234665-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> 
 
 
