@@ -5,7 +5,7 @@
 </p>
 
 ## Contact
-<a href="https://www.instagram.com/dmlworld/">![Instagram](https://img.shields.io/badge/dmlworld-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LinuxUser78">![Twitter](https://img.shields.io/badge/LinuxUser78-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
+<a href="https://www.instagram.com/dmlworld/">![Instagram](https://img.shields.io/badge/dmlworld-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/backgard3n">![Twitter](https://img.shields.io/badge/LinuxUser78-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
 </a> ![Discord](https://img.shields.io/badge/dml%234665-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> 
 
 
@@ -13,17 +13,12 @@
 
 ### I'm Jack, I like coding, making apps and games.
 - 🔭 I’m currently working on my new website and new discord bot.
-- 🌱 I’m currently learning more JavaScript
+- 🌱 I’m currently learning more NodeJS
 - 🤔 I’m looking for help with discord bot development any tips and trick would help!
 - 💬 Ask me about anything
-- 📫 How to reach me Discord (dml#4665)
+- 📫 How to reach me Discord (dml#7415)
 - ⚡ Fun fact Joe Mama
 
-## 🌏 My Community
-
-Wanna see some of my future projects? Join today!
-
-<a href="https://discord.gg/8RCWy4ESuD/">![Discord](https://img.shields.io/badge/discord_server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
 
 ### Main Languages 
