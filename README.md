@@ -1,7 +1,7 @@
 
 
 <p>
-  <h1> Dml</h1>
+  <h1> backgard3n!</h1>
 </p>
 
 ## Contact
@@ -11,13 +11,12 @@
 
 
 
-### I'm Jack, I like coding, making apps and games.
-- 🔭 I’m currently working on my new website and new discord bot.
-- 🌱 I’m currently learning more NodeJS
-- 🤔 I’m looking for help with discord bot development any tips and trick would help!
+### Hello there i'm Jack, I enojy coding and messing around with circuits...
+- 🔭 I’m currently working on my new website 
+- 🌱 I’m currently learning more C++ for Arduino ESP Development
+- 🤔 I’m looking for building a larger community 
 - 💬 Ask me about anything
-- 📫 How to reach me Discord (dml#7415)
-- ⚡ Fun fact Joe Mama
+- 📫 How to reach me Discord (logicaloperator)
 
 
 
