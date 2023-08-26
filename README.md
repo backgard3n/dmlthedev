@@ -6,7 +6,7 @@
 
 ## Contact
 <a href="https://www.instagram.com/backgard3n0/">![Instagram](https://img.shields.io/badge/backgard3n0-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/backgard3n">![Twitter](https://img.shields.io/badge/backgard3n-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/8RCWy4ESuD">
-</a> ![Discord](https://img.shields.io/badge/dml%234665-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> 
+</a> ![Discord](https://img.shields.io/badge/logicaloperator-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> 
 
 
 
