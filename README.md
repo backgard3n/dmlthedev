@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning more C++ for Arduino ESP Development
 - 🤔 I’m looking for building a larger community 
 - 💬 Ask me about anything
-- 📫 How to reach me Discord (logicaloperator)
+- 📫 How to reach me Discord (logicaloperator) or instagram (backgard3n0)
 
 
 
